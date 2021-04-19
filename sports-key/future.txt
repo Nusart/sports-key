@@ -1,0 +1,3 @@
+Future Modifications-
+1. Barcode scanner
+2. Database connect to get name automatically
